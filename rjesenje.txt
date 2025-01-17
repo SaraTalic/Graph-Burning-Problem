@@ -1,3 +1,6 @@
+----------------------------------------------
+30
+----------------------------------------------
 ________________________________________________
 instance: karate.mtx
 n: 34
@@ -438,4 +441,511 @@ x[1, 1208] = 1
 x[2, 804] = 1
 x[3, 563] = 1
 --- 299.53188467025757 sekundi ---
+________________________________________________
+DD68
+Solution Found (Status: Optimal): Objective Value = 9.0
+x[0, 568] = 1
+x[1, 23] = 1
+x[2, 723] = 1
+x[3, 58] = 1
+x[4, 410] = 1
+x[5, 164] = 1
+x[6, 446] = 1
+x[7, 620] = 1
+x[8, 19] = 1
+--- 8.826685905456543 sekundi --- sa 200 iteracija
+Solution Found (Status: Optimal): Objective Value = 9.0
+x[0, 698] = 1
+x[1, 97] = 1
+x[2, 221] = 1
+x[3, 720] = 1
+x[4, 236] = 1
+x[5, 376] = 1
+x[6, 2] = 1
+x[7, 260] = 1
+x[8, 15] = 1
+--- 9.68204116821289 sekundi --- sa k/2-2 koraka
+________________________________________________
+instance: DD68.mtx
+n: 775
+m: 2093
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 10.0
+x[0, 635] = 1
+x[1, 637] = 1
+x[2, 597] = 1
+x[3, 59] = 1
+x[4, 413] = 1
+x[5, 164] = 1
+x[6, 622] = 1
+x[7, 85] = 1
+x[8, 618] = 1
+x[9, 19] = 1
+--- 608.6842873096466 sekundi ---
 
+
+
+
+
+----------------------------------
+50
+----------------------------------
+________________________________________________
+instance: karate.mtx
+n: 34
+m: 78
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 3.0
+x[0, 9] = 1
+x[1, 16] = 1
+x[2, 31] = 1
+--- 0.11697268486022949 sekundi ---
+________________________________________________
+instance: chesapeake.mtx
+n: 39
+m: 170
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 3.0
+x[0, 23] = 1
+x[1, 33] = 1
+x[2, 6] = 1
+--- 0.13184666633605957 sekundi ---
+________________________________________________
+instance: dolphins.mtx
+n: 62
+m: 159
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 4.0
+x[0, 14] = 1
+x[1, 17] = 1
+x[2, 9] = 1
+x[3, 37] = 1
+--- 0.20954370498657227 sekundi ---
+________________________________________________
+instance: rt-retweet.mtx
+n: 96
+m: 117
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 5.0
+x[0, 48] = 1
+x[1, 20] = 1
+x[2, 64] = 1
+x[3, 13] = 1
+x[4, 5] = 1
+--- 0.2662372589111328 sekundi ---
+________________________________________________
+instance: polbooks.mtx
+n: 105
+m: 441
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 4.0
+x[0, 34] = 1
+x[1, 87] = 1
+x[2, 33] = 1
+x[3, 4] = 1
+--- 0.27306485176086426 sekundi ---
+________________________________________________
+instance: adjnoun.mtx
+n: 112
+m: 425
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 4.0
+x[0, 104] = 1
+x[1, 74] = 1
+x[2, 15] = 1
+x[3, 31] = 1
+--- 0.3695540428161621 sekundi ---
+________________________________________________
+instance: ia-infect-hyper.mtx
+n: 113
+m: 2196
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 3.0
+x[0, 56] = 1
+x[1, 71] = 1
+x[2, 86] = 1
+--- 0.3127155303955078 sekundi ---
+________________________________________________
+instance: C125-9.mtx
+n: 125
+m: 6963
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 3.0
+x[0, 40] = 1
+x[1, 91] = 1
+x[2, 20] = 1
+--- 0.4537324905395508 sekundi ---
+________________________________________________
+instance: ia-enron-only.mtx
+n: 143
+m: 623
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 4.0
+x[0, 100] = 1
+x[1, 41] = 1
+x[2, 140] = 1
+x[3, 104] = 1
+--- 0.39461302757263184 sekundi ---
+________________________________________________
+instance: c-fat200-1.mtx
+n: 200
+m: 1534
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 7.0
+x[0, 10] = 1
+x[1, 140] = 1
+x[2, 173] = 1
+x[3, 167] = 1
+x[4, 183] = 1
+x[5, 109] = 1
+x[6, 9] = 1
+--- 1.4465546607971191 sekundi ---
+________________________________________________
+instance: c-fat200-2.mtx
+n: 200
+m: 3235
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 5.0
+x[0, 9] = 1
+x[1, 17] = 1
+x[2, 67] = 1
+x[3, 112] = 1
+x[4, 173] = 1
+--- 0.756941556930542 sekundi ---
+________________________________________________
+instance: c-fat200-5.mtx
+n: 200
+m: 8473
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 3.0
+x[0, 22] = 1
+x[1, 138] = 1
+x[2, 127] = 1
+--- 0.7642836570739746 sekundi ---
+________________________________________________
+instance: sphere.mtx
+n: 258
+m: 1026
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 7.0
+x[0, 15] = 1
+x[1, 93] = 1
+x[2, 160] = 1
+x[3, 238] = 1
+x[4, 191] = 1
+x[5, 90] = 1
+x[6, 61] = 1
+--- 2.099541187286377 sekundi ---
+________________________________________________
+instance: DD244.mtx
+n: 291
+m: 822
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 7.0
+x[0, 224] = 1
+x[1, 219] = 1
+x[2, 211] = 1
+x[3, 247] = 1
+x[4, 77] = 1
+x[5, 54] = 1
+x[6, 203] = 1
+--- 1.1935949325561523 sekundi ---
+________________________________________________
+instance: ca-netscience.mtx
+n: 379
+m: 914
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 6.0
+x[0, 102] = 1
+x[1, 36] = 1
+x[2, 187] = 1
+x[3, 69] = 1
+x[4, 17] = 1
+x[5, 50] = 1
+--- 1.654003620147705 sekundi ---
+________________________________________________
+instance: infect-dublin.mtx
+n: 410
+m: 2765
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 5.0
+x[0, 125] = 1
+x[1, 254] = 1
+x[2, 31] = 1
+x[3, 267] = 1
+x[4, 273] = 1
+--- 2.9765138626098633 sekundi ---
+________________________________________________
+instance: bio-diseasome.mtx
+n: 516
+m: 1188
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 7.0
+x[0, 403] = 1
+x[1, 392] = 1
+x[2, 149] = 1
+x[3, 348] = 1
+x[4, 131] = 1
+x[5, 340] = 1
+x[6, 256] = 1
+--- 3.4941632747650146 sekundi ---
+________________________________________________
+instance: web-polblogs.mtx
+n: 643
+m: 2280
+ncc: 1
+Optimal Solution Found: 5.0
+x[0, 95] = 1
+x[1, 476] = 1
+x[2, 171] = 1
+x[3, 317] = 1
+x[4, 119] = 1
+--- 6.304871320724487 sekundi --- 
+________________________________________________
+instance: DD687.mtx
+n: 725
+m: 2600
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 8.0
+x[0, 110] = 1
+x[1, 577] = 1
+x[2, 677] = 1
+x[3, 17] = 1
+x[4, 57] = 1
+x[5, 254] = 1
+x[6, 718] = 1
+x[7, 43] = 1
+--- 90.83754563331604 sekundi ---
+________________________________________________
+instance: rt-twitter-copen.mtx
+n: 761
+m: 1029
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 7.0
+x[0, 120] = 1
+x[1, 693] = 1
+x[2, 98] = 1
+x[3, 200] = 1
+x[4, 177] = 1
+x[5, 664] = 1
+x[6, 396] = 1
+--- 16.137940883636475 sekundi ---
+________________________________________________
+instance: DD68.mtx
+n: 775
+m: 2093
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 10.0
+x[0, 635] = 1
+x[1, 637] = 1
+x[2, 597] = 1
+x[3, 59] = 1
+x[4, 413] = 1
+x[5, 164] = 1
+x[6, 622] = 1
+x[7, 85] = 1
+x[8, 618] = 1
+x[9, 19] = 1
+--- 608.6842873096466 sekundi ---
+________________________________________________
+instance: ia-crime-moreno.mtx
+n: 829
+m: 1475
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 7.0
+x[0, 110] = 1
+x[1, 109] = 1
+x[2, 385] = 1
+x[3, 237] = 1
+x[4, 350] = 1
+x[5, 355] = 1
+x[6, 42] = 1
+--- 106.63639521598816 sekundi ---
+________________________________________________
+instance: DD199.mtx
+n: 841
+m: 1902
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 12.0
+x[0, 100] = 1
+x[1, 227] = 1
+x[2, 45] = 1
+x[3, 741] = 1
+x[4, 662] = 1
+x[5, 801] = 1
+x[6, 389] = 1
+x[7, 75] = 1
+x[8, 152] = 1
+x[9, 453] = 1
+x[10, 24] = 1
+x[11, 714] = 1
+--- 23.740856885910034 sekundi ---
+________________________________________________
+instance: soc-wiki-Vote.mtx
+n: 889
+m: 2914
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 6.0
+x[0, 114] = 1
+x[1, 26] = 1
+x[2, 216] = 1
+x[3, 251] = 1
+x[4, 49] = 1
+x[5, 379] = 1
+--- 30.049501657485962 sekundi ---
+________________________________________________
+instance: DD349.mtx
+n: 897
+m: 2087
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 12.0
+x[0, 242] = 1
+x[1, 163] = 1
+x[2, 330] = 1
+x[3, 799] = 1
+x[4, 24] = 1
+x[5, 604] = 1
+x[6, 493] = 1
+x[7, 245] = 1
+x[8, 632] = 1
+x[9, 169] = 1
+x[10, 754] = 1
+x[11, 396] = 1
+--- 36.56609630584717 sekundi ---
+________________________________________________
+instance: DD497.mtx
+n: 903
+m: 2453
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 11.0
+x[0, 527] = 1
+x[1, 675] = 1
+x[2, 882] = 1
+x[3, 124] = 1
+x[4, 542] = 1
+x[5, 542] = 1
+x[6, 115] = 1
+x[7, 87] = 1
+x[8, 497] = 1
+x[9, 299] = 1
+x[10, 206] = 1
+--- 253.44105529785156 sekundi ---
+________________________________________________
+instance: socfb-Reed98.mtx
+n: 962
+m: 18812
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 4.0
+x[0, 572] = 1
+x[1, 559] = 1
+x[2, 853] = 1
+x[3, 229] = 1
+--- 17.60007667541504 sekundi ---
+________________________________________________
+instance: delaunay_n10.mtx
+n: 1024
+m: 3056
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 9.0
+x[0, 592] = 1
+x[1, 811] = 1
+x[2, 810] = 1
+x[3, 865] = 1
+x[4, 102] = 1
+x[5, 694] = 1
+x[6, 649] = 1
+x[7, 609] = 1
+x[8, 242] = 1
+--- 53.322927951812744 sekundi ---
+________________________________________________
+instance: email-univ.mtx
+n: 1133
+m: 5451
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 5.0
+x[0, 106] = 1
+x[1, 592] = 1
+x[2, 1083] = 1
+x[3, 197] = 1
+x[4, 133] = 1
+--- 44.4689998626709 sekundi ---
+________________________________________________
+instance: econ-mahindas.mtx
+n: 1258
+m: 7513
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 5.0
+x[0, 1003] = 1
+x[1, 999] = 1
+x[2, 1092] = 1
+x[3, 487] = 1
+x[4, 822] = 1
+--- 32.827457427978516 sekundi ---
+________________________________________________
+instance: ia-fb-messages.mtx
+n: 1266
+m: 6451
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 5.0
+x[0, 1049] = 1
+x[1, 1068] = 1
+x[2, 1253] = 1
+x[3, 307] = 1
+x[4, 130] = 1
+--- 27.863332748413086 sekundi ---
+________________________________________________
+instance: bio-yeast.mtx
+n: 1458
+m: 1948
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 9.0
+x[0, 1071] = 1
+x[1, 306] = 1
+x[2, 131] = 1
+x[3, 895] = 1
+x[4, 710] = 1
+x[5, 620] = 1
+x[6, 1167] = 1
+x[7, 939] = 1
+x[8, 818] = 1
+--- 63.06360936164856 sekundi ---
+________________________________________________
+instance: tech-routers-rf.mtx
+n: 2113
+m: 6632
+ncc: 1
+Optimal Solution Found: 6.0
+x[0, 1074] = 1
+x[1, 1020] = 1
+x[2, 1325] = 1
+x[3, 450] = 1
+x[4, 1501] = 1
+x[5, 178] = 1
+--- 213.2762348651886 sekundi --- 
+________________________________________________
+instance: facebook.mtx
+n: 4039
+m: 88234
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 4.0
+x[0, 1192] = 1
+x[1, 3251] = 1
+x[2, 804] = 1
+x[3, 563] = 1
+--- 167.81625699996948 sekundi ---
+________________________________________________
+instance: DD68.mtx
+n: 775
+m: 2093
+ncc: 1
+Solution Found (Status: Optimal): Objective Value = 9.0
+x[0, 9] = 1
+x[1, 338] = 1
+x[2, 411] = 1
+x[3, 37] = 1
+x[4, 57] = 1
+x[5, 163] = 1
+x[6, 566] = 1
+x[7, 260] = 1
+x[8, 20] = 1
+--- 7.858088493347168 sekundi ---
