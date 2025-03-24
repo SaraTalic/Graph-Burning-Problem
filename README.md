@@ -18,6 +18,7 @@ This project is part of the **Artificial Intelligence** course and focuses on so
 - **Greedy Algorithm**: Implemented for graph burning.
 - **Hybrid Approach**: Integrating the greedy algorithm with the PULP solver for optimization.
 - **Graph Analysis**: Exploring graph structures and burning sequences.
+- The graphs used for testing were obtained from [this repository](https://github.com/jesgadiaz/GreedyBurning?tab=readme-ov-file).
 
 
 
